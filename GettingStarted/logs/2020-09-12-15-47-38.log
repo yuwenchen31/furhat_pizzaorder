@@ -17,3 +17,4 @@ kotlin.UninitializedPropertyAccessException: lateinit property data has not been
 	at furhatos.skills.Skill.initializeSkill(Skill.java:169)
 	at furhatos.skills.Skill.lambda$startSkill$2(Skill.java:227)
 	at java.lang.Thread.run(Thread.java:748)
+22:17:39 [Broker Client] ERROR BrokerClient:152 - Unexpected disconnect from broker
