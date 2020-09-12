@@ -1,0 +1,4 @@
+14:24:42 [Skill] INFO  Skill:139 - Connecting to Furhat server on 0.0.0.0:1932
+14:26:06 [Skill] WARN  BrokerClient: 82 - Operation timed out (Connection timed out) (is the server running and reachable?)
+14:26:07 [GettingstartedSkill] INFO  GettingstartedSkill:166 - Starting skill
+14:26:35 [EventSystem] INFO  GettingstartedSkill:184 - Terminating skill
