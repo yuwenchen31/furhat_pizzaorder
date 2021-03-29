@@ -12,4 +12,4 @@ It consists of 6 states, 3 entities, and 6 intents.
 ## Scenarios
 User performs the following sequence of intents: 1) ask what options they have, 2) order a pizza with mushroom, 3) add topping of tomato, 4) remove mushroom, 5)
 tell place, 6) tell time, 7) confirm order.
-
+![alt text](https://github.com/yuwenchen31/furhat_pizzaorder/blob/master/scanarios.jpg)
